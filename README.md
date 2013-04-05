@@ -3,8 +3,7 @@ ABM-Beam
 
 Active Buffer Monitoring
 
-
-
+Python script abmBeam.py is inteded to be run on the Nexus 3548.  It sends out Active Buffer Monitoring histogram for all the ports and the buffer-blocks over UDP.
 
 Structure of UDP Packet:
 
