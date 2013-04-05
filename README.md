@@ -7,7 +7,8 @@ Active Buffer Monitoring
 
 
 Structure of UDP Packet:
-{
+
+<pre>
 943  Bytes	:	Total ABM Data Containing the following:
 {
 	20	Bytes	:	Signature "Cisco Nexus 3548 ABM"
@@ -53,4 +54,4 @@ Structure of UDP Packet:
 		16	Bytes 	:	Buffer usage histogram
 	}
 }
-}
+</pre>
