@@ -54,3 +54,7 @@ Structure of UDP Packet:
 	}
 }
 </pre>
+
+
+For more details on running Python on the Nexus Series switches:
+https://github.com/datacenter/Nexus/wiki/Python-on-Nexus-3000-Series-Switches
